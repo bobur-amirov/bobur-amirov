@@ -1,5 +1,12 @@
 ### Hi 👋 I'm Bobur Amirov
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bobur-amirov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 <!--
 **bobur-amirov/bobur-amirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
