@@ -1,6 +1,5 @@
 ### Hi 👋 I'm Bobur Amirov
 
-- 🔭 I’m currently working on Uzinfocom
 <!--
 **bobur-amirov/bobur-amirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
